@@ -4,7 +4,7 @@
 </p>
 
 **Sou estudante e desenvolvedor front-end, estou em busca da minha primeira vaga de junior.
-No meu tempo livre gosto de assistir filmes, series, tocar teclado e produzir músicas.
+No meu tempo livre gosto de assistir filmes, séries, tocar teclado e produzir músicas.
 Sou apaixonado por tecnologia, gosto muito de aprender como as coisas funcionam, encontrar problemas e solucioná los.**
 
 ## Minhas skills
