@@ -1,6 +1,6 @@
 # Ola, eu sou o André Barbosa!✌️ 
 <p align="left">
-<a href="/docs/readme_en.md">English</a>   
+<a href="/docs/readme_en.md">Em inglês</a>   
 </p>
 
 **Sou estudante e desenvolvedor front-end, estou em busca da minha primeira vaga de junior.
