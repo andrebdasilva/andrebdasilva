@@ -1,6 +1,6 @@
 # Hi, I'm André Barbosa!✌️ 
 <p align="left">
-<a href="/README.md">Portuguese</a>   
+<a href="/README.md">In portuguese</a>   
 </p>
 
 **I'm a student and front-end developer, I'm looking for my first junior job.
