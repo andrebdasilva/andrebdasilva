@@ -3,7 +3,7 @@
 <a href="/README.md">In portuguese</a>   
 </p>
 
-**I'm a student and front-end developer, I'm looking for my first junior job.
+**I'm a front-end developer, I'm looking for my first junior job.
 In my free time I like to watch movies, series, play keyboards and produce music.
 I am passionate about technology, I really enjoy learning how things work, finding problems and solving them.**
 
