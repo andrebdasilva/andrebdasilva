@@ -3,7 +3,10 @@
 <a href="/README.md">In portuguese</a>   
 </p>
 
-**I'm a front-end developer, I'm looking to professionalize myself in the area of web development, creating desktop and mobile applications.  <br><br>In my free time I like to watch movies, series, play the keyboard and produce music.  <br><br>I've always found it very easy to learn software and hardware, I like to know how things work, identify and solve problems, study in depth and discover alternatives, and apply what I learned.  <br><br>I have worked in other professional areas of creation, arts, music, sound design, sound engineer, mix and master, and in the formal sectors of production, logistics and retail.**
+**I'm a front-end developer, I'm looking to professionalize myself in the area of web development, creating desktop and mobile applications.<br><br>
+In my free time I like to watch movies, series, play the keyboard and produce music.<br><br>
+I've always found it very easy to learn software and hardware, I like to know how things work, identify and solve problems, study in depth and discover alternatives, and apply what I learned.
+<br><br>I have worked in other professional areas of creation, arts, music, sound design, sound engineer, mix and master, and in the formal sectors of production, logistics and retail.**
 
 ## My skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
