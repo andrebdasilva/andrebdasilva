@@ -3,9 +3,10 @@
 <a href="/docs/readme_en.md">Em inglês</a>   
 </p>
 
-**Sou desenvolvedor front-end, estou em busca da minha primeira vaga de junior.
-No meu tempo livre gosto de assistir filmes, séries, tocar teclado e produzir músicas.
-Sou apaixonado por tecnologia, gosto muito de aprender como as coisas funcionam, encontrar problemas e solucioná los.**
+**Sou desenvolvendor front-end, estou em busca de me profissionalizar na area de desenvolvimento web, criar aplicações desktop e mobile.<br><br>
+No meu tempo livre gosto de assistir filmes, séries, tocar teclado e produzir músicas.<br><br>
+Sempre tive muita facilidade em aprender softwares e hardwares, gosto de saber como as coisas funcionam, identificar e resolver problemas, estudar a fundo e descobrir as altenativas, e aplicar o que aprendi.<br><br>
+Já atuei em outras areas profissionais de criação, artes, musica, sound design, sound engineer, mix e master, e no setores formais de produção, logistíca e varejo.**
 
 ## Minhas skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
